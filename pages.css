@@ -1,0 +1,37 @@
+a {
+    color: white;
+}
+
+body{
+    align-content: center;
+    align-items: center;
+    background-color: rgb(16, 13, 13);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.breakfast-page {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/020/086/307/large_2x/top-view-fresh-bread-brown-raisins-sesame-bakery-made-from-wheat-flour-food-homemade-suitable-for-healthy-eating-on-wooden-table-floor-black-rustic-dark-background-free-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.dinner-page {
+    background-image: url(https://img5.goodfon.com/wallpaper/nbig/2/3f/makarony-bliudo-lapsha-temnyi-fon-eda-pomidory-skovoroda.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.lunch-page {
+    background-image: url(https://ik.imagekit.io/awwybhhmo/satellite_images/japanese/beyondmenu/about_us/12.jpg?tr=w-3840);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+ul {
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+   text-align: center;
+}
